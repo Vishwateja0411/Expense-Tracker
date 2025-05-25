@@ -1,4 +1,4 @@
-// index.js (or server.js) in your Backend folder
+// index.js (or server.js) in your Backend folders
 const express = require('express');
 const mongoose = require('mongoose');
 const dotenv  = require('dotenv');
