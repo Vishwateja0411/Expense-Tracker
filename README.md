@@ -28,6 +28,7 @@ This is a full-stack web application built with the **MERN stack** (MongoDB, Exp
 
 
 git clone https://github.com/Vishwateja0411/Expense-Tracker.git
+
 cd Expense-Tracker
 ---
 
